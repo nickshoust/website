@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.nickshoust.com/index.html
+Sitemap: http://nickshoust.com/index.html
